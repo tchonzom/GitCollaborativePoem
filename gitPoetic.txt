@@ -1,2 +1,6 @@
 this is the first line of the poem
+<<<<<<< HEAD
 haha this is the best third line
+=======
+second line
+>>>>>>> ea01a13f39eb8b902214fe0b88c88997ab3a3a0f
